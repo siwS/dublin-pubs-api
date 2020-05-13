@@ -1,4 +1,4 @@
-Basic Spring boot app that (will) return apps (sometime in the future)
+Spring boot app that (will) return apps (sometime in the future).\
 Under development.
 
 To build:
